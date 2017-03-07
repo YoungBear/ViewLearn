@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mCustomView = (CustomView) findViewById(R.id.main_cv);
+//        mCustomView = (CustomView) findViewById(R.id.main_cv);
 //        new Thread(mCustomView).start();
     }
 }

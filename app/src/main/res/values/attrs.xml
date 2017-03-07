@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleView">
+        <attr name="circle_color" format="color"/>
+        <attr name="circle_boolean" format="boolean"/>
+        <attr name="circle_int" format="integer"/>
+        <attr name="circle_text" format="string" />
+    </declare-styleable>
+</resources>
